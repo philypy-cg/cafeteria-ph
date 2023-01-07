@@ -1,0 +1,62 @@
+body {   
+    display: table-row-group; 
+}
+
+#banner {
+    width: 100%;
+    height: 450px;
+}
+
+.principal {
+    background: black;
+    padding: 30px;
+    
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+    color: #cccccc;
+}
+
+p {
+    text-align: center;  
+    color: #cccccc;
+    
+}
+
+#proposta {
+    font-size: 20px;
+}
+
+em strong {
+    color: #03694b7c;
+}
+
+.itens {
+    font-style: italic;
+    color: #cccccc;
+}
+
+.estabelecimento {
+    background: black;
+    padding: 20px;
+}
+
+
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagemestabelecimento {
+    width: 50%;
+    
+
+}
