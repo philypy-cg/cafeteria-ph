@@ -267,6 +267,7 @@ td, th {
     box-shadow: 10px 10px 30px 20px #000000, -10px -10px yellow, -20px -20px orangered
 }
 
+
 @media screen and (max-width: 900px) {
     .caixa, .principal, .conteudo-estabelecimento, .mapa-conteudo, .video {
         width: auto;
