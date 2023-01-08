@@ -1,5 +1,6 @@
 body {   
-    display: table-row-group; 
+    display: table-row-group;
+     
 }
 
 #banner {
@@ -10,6 +11,7 @@ body {
 .principal {
     background: black;
     padding: 30px;
+    
     
 }
 
